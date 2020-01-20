@@ -9,8 +9,8 @@ UI toolkit for building desktop apps with Electron.
 # Getting started
 Clone the repo with git clone  https://github.com/sirshikher/proton-react-app.git <br/>
 Read the docs to learn about the components and how to get your new application started <br/>
-Take note that our master branch is our active, unstable development branch and that if you're looking to download a stable  copy of the repo, check the tagged downloads.
 
-# Development:
+
+# How to use:
 1.Install node dependencies: npm install.<br/>
 2.Open the example app: npm start.
